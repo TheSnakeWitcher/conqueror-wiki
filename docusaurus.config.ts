@@ -36,6 +36,7 @@ const config: Config = {
     ],
 
     themeConfig: {
+        image: "./static/img/ConquerorLogo.png",
         colorMode: {
             disableSwitch: true,
         },
@@ -48,59 +49,28 @@ const config: Config = {
             items: [
                 {
                     href: 'https://instagram.com/conquerorlifestyle',
-                    label: 'Instagram',
                     position: 'right',
+                    className: 'fa-brands fa-instagram fa-2xl',
                 },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
-                    label: 'GitHub',
+                    href: 'https://www.facebook.com/profile.php?id=61572360676712',
                     position: 'right',
+                    className: 'fa-brands fa-facebook fa-2xl',
+                },
+                {
+                    href: 'http://t.me/ConquerorLifestyle',
+                    position: 'right',
+                    className: 'fa-brands fa-telegram fa-2xl',
+                },
+                {
+                    href: 'https://wa.me/59891601167',
+                    position: 'right',
+                    className: 'fa-brands fa-whatsapp fa-2xl',
                 },
             ],
         },
         footer: {
             style: 'dark',
-            links: [
-                {
-                    title: 'Docs',
-                    items: [
-                        {
-                            label: 'Tutorial',
-                            to: '/docs/intro',
-                        },
-                    ],
-                },
-                {
-                    title: 'Community',
-                    items: [
-                        {
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                        },
-                        {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
-                        },
-                        {
-                            label: 'X',
-                            href: 'https://x.com/docusaurus',
-                        },
-                    ],
-                },
-                {
-                    title: 'More',
-                    items: [
-                        {
-                            label: 'Blog',
-                            to: '/blog',
-                        },
-                        {
-                            label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
-                        },
-                    ],
-                },
-            ],
             copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
         },
         prism: {

@@ -1,3 +1,10 @@
+/* @import "fontawesome.min.css";  */
+/* @import "brands.min.css"; */
+/* @import "solid.min.css";   */
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/fontawesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/brands.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/solid.min.js);
+
 :root {
   --ifm-color-primary: #483d8b;
   --ifm-color-primary-dark: #41377d;
