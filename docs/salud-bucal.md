@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Salud Bucal
 
 El ambiente bucal segun su composicion quimica esta siempre en estado de remineralizacion(equilibrio,
