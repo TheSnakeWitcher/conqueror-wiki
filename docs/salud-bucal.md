@@ -55,6 +55,7 @@ La solucion del cepillo y pasta moderno presenta [varios probleams](https://pubm
   en la eficiencia y acumulacion de bacterias.
 - Mayor contaminacion ambiental ya que no son ecologicos/reciclables/biodegradables
 - La pasta dependiendo de su fabricacion puede presentar microplasticos y quimicos agresivos como [SLS](https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate) o [fluoruro](https://pubmed.ncbi.nlm.nih.gov/36639015/)
+- Exposicion a [metales pesados presentes en las pastas comerciales](https://tamararubin.com/2025/01/toothpaste-chart/) como plomo, arsenico y mercurio
   Aunque el fluoruro es promovido como "anti-cavidad" su exceso puede ser perjudicial en humanos y las pastas
   "blanqueadoras" [afectan el contenido mineral de los dientes](https://pubmed.ncbi.nlm.nih.gov/35265322/)
 - Mayor peligro en el proceso de limpieza, no es recomendable dejar mucho tiempo la pasta en la boca ni tragarla, lo cual por
@@ -82,19 +83,20 @@ es mas eficiente usar vinagre blanco. En caso de usar miswak no es necesario
 - [acumulacion de bacterias en cepillos de dientes](https://www.hola.com/estar-bien/20211111199381/cepillo-de-dientes-bacterias/)
 - [toothbrush contamination](https://pubmed.ncbi.nlm.nih.gov/22315679/)
 - [The effect of toothbrush covers on microbial contamination](https://pmc.ncbi.nlm.nih.gov/articles/PMC7888916/)
-- [Microplastics in oral healthcare products (OHPs) and their environmental health risks and mitigation measures ](https://pubmed.ncbi.nlm.nih.gov/38092338/)
-- [Raman imaging to identify microplastics released from toothbrushes: algorithms and particle analysis ](https://pubmed.ncbi.nlm.nih.gov/37689132/)
-- [Assessment of Microbial Contamination of a Toothbrush Head with and without a Protective Cover: An Ex Vivo Study ](https://pubmed.ncbi.nlm.nih.gov/36875982/) habla de
-como los cepillos de dientes cubiertos acumulan menos bacterias que los descubiertos
+- [Microplastics in oral healthcare products (OHPs) and their environmental health risks and mitigation measures](https://pubmed.ncbi.nlm.nih.gov/38092338/)
+- [Raman imaging to identify microplastics released from toothbrushes: algorithms and particle analysis](https://pubmed.ncbi.nlm.nih.gov/37689132/) liberacion de microplasticos
+de los cepillos de plastico durante el proceso de cepillado
+- [Assessment of Microbial Contamination of a Toothbrush Head with and without a Protective Cover: An Ex Vivo Study](https://pubmed.ncbi.nlm.nih.gov/36875982/) habla de
+como los cepillos de dientes cubiertos acumulan menos bacterias que los descubiertos(lo cual no parece ser correcto)
+- [Bacterial contamination and decontamination of toothbrushes after use](https://pubmed.ncbi.nlm.nih.gov/17508674/) comenta que al cubrir el cepillo
+propicia el crecimiento de microorganismos oportunistas como Pseudomonas aeruginosa
 - [Effectiveness of single use over multiple use toothbrushes on negative oral microflora of plaque](https://pubmed.ncbi.nlm.nih.gov/31879640/) habla de como un cepillo
 de 1 solo uso es mucho mas eficiente que uno de varios usos
-- Como desinfectar tu cepillo de dientes
 - [Effectiveness of alternative methods for toothbrush disinfection: an in vitro study](https://pubmed.ncbi.nlm.nih.gov/24971388/)
 - [Contaminated toothbrushes and their disinfection](https://pubmed.ncbi.nlm.nih.gov/7614433/)
 - [Disinfection of toothbrushes contaminated with Streptococcus mutans](https://pubmed.ncbi.nlm.nih.gov/21874935/)
-- [Bacterial contamination and decontamination of toothbrushes after use](https://pubmed.ncbi.nlm.nih.gov/17508674/) comenta que al cubrir el cepillo
-propicia el crecimiento de microorganismos oportunistas como Pseudomonas aeruginosa
 - [acumulacion de bacterias en cepillos de dientes blog post](https://www.hola.com/estar-bien/20211111199381/cepillo-de-dientes-bacterias/)
+- [Chart Comparing the Toxicant Profiles of Popular Toothpaste and Tooth Powder Products Tested by an Independent, Third-Party Lab in 2025](https://tamararubin.com/2025/01/toothpaste-chart/)
 
 ### Miswak papers
 
