@@ -30,25 +30,23 @@ El [miswak](https://en.wikipedia.org/wiki/Miswak) es la rama de la [salvatora pe
 - Poca mantenimiento(no es necesario desinfectarlo y por lo tanto consumir los recursos adicionales que conlleva)
 - Poca atencion al almacenarlo(vienen cellados al vacio)
 - Libres de microplasticos y quimicos agresivos como SLS y fluoruro
-- Menor consumo de recursos pues solo con el miswak es suficiente para mantener la higiene bucal
+- Menor consumo de recursos pues solo con el miswak es suficiente para mantener la higiene bucal(no necesita dendrifico)
 - Proceso productivo simple
 - Nula contaminacion ambiental pues es totalmente ecologicos/reciclables/biodegradables
 
 ### Cepillo y pasta
 
 La solucion del cepillo y pasta moderno presenta [varios probleams](https://pubmed.ncbi.nlm.nih.gov/22315679/):
-- Menos eficiente y con eficiencia reducida con su uso, por ejemplo, [este estudio](https://pubmed.ncbi.nlm.nih.gov/31879640/) habla de como un cepillo de 1
-  solo uso es mucho mas eficiente que uno de varios usos
-- Acumulacion de bacterias y germenes con cada uso
+- Menos eficiente que el miswak y eficiencia reducida con su uso, por ejemplo, [este estudio](https://pubmed.ncbi.nlm.nih.gov/31879640/) habla de como un cepillo de 1
+  solo uso es mucho mas eficiente que uno de varios usos por lo que se recomienda cambiar de cepillo con la mayor frecuencia posible
+- Acumulacion de bacterias y germenes con cada uso(esta empieza desde el primero uso)
 - Exposicion a microplasticos(se introducen directamente en el torrente sanguineo)
-- Mayor complejidad de mantenimiento. Esto ocurre porque los cepillos necesitan ser desinfectado para disminuir la
+- Mayor complejidad de mantenimiento. Esto ocurre porque los cepillos necesitan ser desinfectados para disminuir la
   perdida de eficiencia y evitar su contaminacion lo que implica aprender como hacer la desinfeccion, llevarla a cabo
   recurrentemente(energia, tiempo) y consumir recursos adicionales en el proceso(quimicos necesarios para desinfectar)
-- Require mayor cuidado de almacenamiento.
-    conflicto, supuestamente los cepillos cubiertos al estar en un entorno humedo se contaminan mas pero
-    [segun este](https://pubmed.ncbi.nlm.nih.gov/36875982/) los cepillos de dientes cubiertos se contaminan menos
-    [aun cubiertos acumulan bacaterias](https://pmc.ncbi.nlm.nih.gov/articles/PMC7888916/) por lo que se
-    recomienda cambiar de cepillo de dientes con la mayor frecuencia posible
+- Require mayor cuidado de almacenamiento. Los [cepillos cubiertos o no acumulan bacterias](https://pmc.ncbi.nlm.nih.gov/articles/PMC7888916/) de la cavidad bucal y del
+  ambiente. Los cubiertos crean un entorno humedo que propicia el crecimiento de bacterias oportunistas, los no cubiertos
+  se exponen mas al ambiente(generalmente del banio) y pueden por ejemplo acumular materia fecal
 - Mayor consumo de recursos y menos portable pues se necesita el cepillo, el dendrifico(pasta) y agua
 - Proceso productivo mas complejo. La fabricacion de estos require proceso industrial introduciendo complejidades
   tecnicas como materiales a usar(su composicion es plastico) y diseno, por ejemplo la cercania de las cerdas influye
