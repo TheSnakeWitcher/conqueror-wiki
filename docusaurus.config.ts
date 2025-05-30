@@ -48,6 +48,11 @@ const config: Config = {
             },
             items: [
                 {
+                    href: 'https://www.conqueror.lifestyle',
+                    position: 'right',
+                    className: 'fa-solid fa-globe fa-2xl',
+                },
+                {
                     href: 'https://instagram.com/conquerorlifestyle',
                     position: 'right',
                     className: 'fa-brands fa-instagram fa-2xl',
