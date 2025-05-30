@@ -25,7 +25,7 @@ acortando el espacio de la mandibula para acoger el resto los dientes, peor este
 ### Miswak
 
 El [miswak](https://en.wikipedia.org/wiki/Miswak) es la rama de la [salvatora persica](https://en.wikipedia.org/wiki/Salvadora_persica)
-- Mayor eficiencia mediante una combinacion de acciones mecanicas y quimicas(principalmente los de neem)
+- Mayor eficiencia mediante una combinacion de acciones mecanicas y quimicas
 - Poca acumulacion de bacterias en el tiempo ya que el area que se usa para limpiar la cavidad bucal se desecha
 - Poca mantenimiento(no es necesario desinfectarlo y por lo tanto consumir los recursos adicionales que conlleva)
 - Poca atencion al almacenarlo(vienen cellados al vacio)
@@ -109,7 +109,13 @@ de 1 solo uso es mucho mas eficiente que uno de varios usos
 - [Effect of Salvadora persica on resin-dentin bond stability](https://pubmed.ncbi.nlm.nih.gov/38684974/)
 - [A natural toothbrush](https://dimensionsofdentalhygiene.com/article/a-natural-toothbrush/)
 - [Efficiency of traditional chewing stick (miswak) as an oral hygiene aid among Muslim school children in Lucknow: A cross-sectional study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3941275/)
+- [The antimicrobial effects of extracts of Azadirachta indica (Neem) and Salvadora persica (Arak) chewing sticks ](https://pubmed.ncbi.nlm.nih.gov/10865390/)
+- [Inhibitory effect of Salvadora persica extract (Miswak) on collagen degradation in demineralized dentin: In vitro study](https://pubmed.ncbi.nlm.nih.gov/33384799/)
+- [In vitro evaluation of antimicrobial effect of miswak against common oral pathogens](https://pubmed.ncbi.nlm.nih.gov/24772151/)
+- [Role of Salvadora persica chewing stick (miswak): A natural toothbrush for holistic oral health](https://pmc.ncbi.nlm.nih.gov/articles/PMC4813453/)
 
 ## Explorar
 
-Relacion entre la microbiota del intestino y bucal
+- Relacion entre la microbiota del intestino y bucal
+- Eficiencia de [diferentes especies](https://www.perplexity.ai/search/which-checking-stick-is-more-e-OGOXk5UmT2OqYU1SCKI13A) como neem
+
