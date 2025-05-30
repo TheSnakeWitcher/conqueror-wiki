@@ -6,7 +6,7 @@ const config: Config = {
     title: 'Conqueror wiki',
     tagline: 'Your portal to a healty life',
     favicon: 'img/ConquerorLogo.ico',
-    url: 'https://your-docusaurus-site.example.com',
+    url: 'https://wiki.conqueror.lifestyle',
     baseUrl: '/',
     organizationName: 'conqueror',
     projectName: 'conqueror',
