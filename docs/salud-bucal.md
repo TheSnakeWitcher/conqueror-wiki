@@ -29,7 +29,7 @@ El [miswak](https://en.wikipedia.org/wiki/Miswak) es la rama de la [salvatora pe
 - Poca acumulacion de bacterias en el tiempo ya que el area que se usa para limpiar la cavidad bucal se desecha
 - Poca mantenimiento(no es necesario desinfectarlo y por lo tanto consumir los recursos adicionales que conlleva)
 - Poca atencion al almacenarlo(vienen cellados al vacio)
-- Libres de microplasticos y quimicos agresivos como SLS y fluoruro
+- Libres de microplasticos y quimicos agresivos
 - Menor consumo de recursos pues solo con el miswak es suficiente para mantener la higiene bucal(no necesita dendrifico)
 - Proceso productivo simple
 - Nula contaminacion ambiental pues es totalmente ecologicos/reciclables/biodegradables
@@ -52,10 +52,9 @@ La solucion del cepillo y pasta moderno presenta [varios probleams](https://pubm
   tecnicas como materiales a usar(su composicion es plastico) y diseno, por ejemplo la cercania de las cerdas influye
   en la eficiencia y acumulacion de bacterias.
 - Mayor contaminacion ambiental ya que no son ecologicos/reciclables/biodegradables
-- La pasta dependiendo de su fabricacion puede presentar microplasticos y quimicos agresivos como [SLS](https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate) o [fluoruro](https://pubmed.ncbi.nlm.nih.gov/36639015/)
-- Exposicion a [metales pesados presentes en las pastas comerciales](https://tamararubin.com/2025/01/toothpaste-chart/) como plomo, arsenico y mercurio
-  Aunque el fluoruro es promovido como "anti-cavidad" su exceso puede ser perjudicial en humanos y las pastas
-  "blanqueadoras" [afectan el contenido mineral de los dientes](https://pubmed.ncbi.nlm.nih.gov/35265322/)
+- La pasta dependiendo de su fabricacion puede presentar microplasticos y quimicos agresivos como [SLS](https://en.wikipedia.org/wiki/Sodium_dodecyl_sulfate)
+- Exposicion a [metales pesados presentes en las pastas comerciales](https://tamararubin.com/2025/01/toothpaste-chart/) como plomo, arsenico y mercurio,
+  adicionalmente las pastas "blanqueadoras" [afectan el contenido mineral de los dientes](https://pubmed.ncbi.nlm.nih.gov/35265322/)
 - Mayor peligro en el proceso de limpieza, no es recomendable dejar mucho tiempo la pasta en la boca ni tragarla, lo cual por
   ejemplo es dificil de controlar en chicos
 
@@ -118,4 +117,4 @@ de 1 solo uso es mucho mas eficiente que uno de varios usos
 
 - Relacion entre la microbiota del intestino y bucal
 - Eficiencia de [diferentes especies](https://www.perplexity.ai/search/which-checking-stick-is-more-e-OGOXk5UmT2OqYU1SCKI13A) como neem
-
+- El [fluoruro](https://pubmed.ncbi.nlm.nih.gov/36639015/) es muy polemico en lo que a salud bucal se refiere, aunque es promovido como "anti-cavidad" su exceso puede ser perjudicial en humanos, investigar que cantidad es perjudicial y en que entorno(puede que sea perjudicial mezclado con algunos quimicos pero no otros)
