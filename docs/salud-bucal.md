@@ -89,6 +89,8 @@ como los cepillos de dientes cubiertos acumulan menos bacterias que los descubie
 propicia el crecimiento de microorganismos oportunistas como Pseudomonas aeruginosa
 - [Effectiveness of single use over multiple use toothbrushes on negative oral microflora of plaque](https://pubmed.ncbi.nlm.nih.gov/31879640/) habla de como un cepillo
 de 1 solo uso es mucho mas eficiente que uno de varios usos
+- [Effect of a single-use toothbrush on plaque microflora](https://pubmed.ncbi.nlm.nih.gov/20139560/) habla de como un cepillo de dientes contaminado reintroduce
+bacterias en la cavidad bucal
 - [Effectiveness of alternative methods for toothbrush disinfection: an in vitro study](https://pubmed.ncbi.nlm.nih.gov/24971388/)
 - [Contaminated toothbrushes and their disinfection](https://pubmed.ncbi.nlm.nih.gov/7614433/)
 - [Disinfection of toothbrushes contaminated with Streptococcus mutans](https://pubmed.ncbi.nlm.nih.gov/21874935/)
