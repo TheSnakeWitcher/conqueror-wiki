@@ -20,6 +20,14 @@ acortando el espacio de la mandibula para acoger el resto los dientes, peor este
 - Miswak como herramienta mas optima para mantener la higiene bucal(ver [#Herramientas](#herramientas) y [#Miswak](#miswak))
 - Reducir la ventana de tiempo en la que se ingieren alimentos para incrementar el tiempo de la boca en remineralizacion
 
+Consejos
+Evita alcohol, cafe, mate, cigarro, chicles
+Evita los chicles, la mayoria de los chicles suelen incluir
+polivinilo(derivado del petroleo) que se usa en pegamento
+dioxido de titanio(asociado a multiples enfermedades entre ellas canceer)
+suavizantes(que pueden usar parafinas o aceites vegetales que son altamente procesados e inflamatorios)
+endulzantes(como sucarosa y aspartame) y saborizantes artificiales
+
 ## Herramientas
 
 ### Miswak
@@ -96,6 +104,16 @@ bacterias en la cavidad bucal
 - [Disinfection of toothbrushes contaminated with Streptococcus mutans](https://pubmed.ncbi.nlm.nih.gov/21874935/)
 - [acumulacion de bacterias en cepillos de dientes blog post](https://www.hola.com/estar-bien/20211111199381/cepillo-de-dientes-bacterias/)
 - [Chart Comparing the Toxicant Profiles of Popular Toothpaste and Tooth Powder Products Tested by an Independent, Third-Party Lab in 2025](https://tamararubin.com/2025/01/toothpaste-chart/)
+toothpaste
+
+- [Effects of menthol-flavored substances at the cellular level on oral mucosal sites](https://pmc.ncbi.nlm.nih.gov/articles/PMC6340220/)
+[Cytotoxicity of the Ingredients of Commonly Used Toothpastes and Mouthwashes on Human Gingival Fibroblasts](https://pmc.ncbi.nlm.nih.gov/articles/PMC7569277/)
+- [Microplastics in oral healthcare products (OHPs) and their environmental health risks and mitigation measures](https://pubmed.ncbi.nlm.nih.gov/38092338/)
+- [Investigation of the constituents of commercially available toothpastes](https://pubmed.ncbi.nlm.nih.gov/38659161/)
+- [Extraction, identification, and environmental risk assessment of microplastics in commercial toothpaste](https://pubmed.ncbi.nlm.nih.gov/35176298/)
+- [Occurrence and risk assessment of microplastics from various toothpastes](https://pubmed.ncbi.nlm.nih.gov/31203457/)
+- [Microplastic content of over-the-counter toothpastes - a systematic review](https://pubmed.ncbi.nlm.nih.gov/37521767/)
+
 
 ### Miswak papers
 
